@@ -1,0 +1,40 @@
+/* Admin Theme - Black/White/Grey */
+.admin-header {
+    background-color: #000;
+    color: white;
+}
+
+.admin-header h1 {
+    color: white;
+}
+
+.admin-sidebar {
+    background-color: #1f2937; /* gray-800 */
+}
+
+.admin-sidebar a {
+    color: #d1d5db; /* gray-300 */
+}
+
+.admin-sidebar a:hover {
+    background-color: #374151; /* gray-700 */
+    color: white;
+}
+
+.admin-sidebar .active {
+    background-color: #374151; /* gray-700 */
+    color: white;
+}
+
+.admin-main {
+    background-color: #f3f4f6; /* gray-100 */
+}
+
+.admin-card {
+    background-color: white;
+    color: #1f2937; /* gray-800 */
+}
+
+.admin-logo {
+    height: 2rem;
+}
